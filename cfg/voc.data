@@ -1,6 +1,6 @@
 classes= 20
-train  = /content/drive/My\ Drive/yolo/darknet/data/voc/train.txt
-valid  = /content/drive/My\ Drive/yolo/darknet/data/voc/2007_test.txt
+train  = /content/drive/My Drive/darknet/data/voc/train.txt
+valid  = /content/drive/My Drive/darknet/data/voc/2007_test.txt
 names = data/voc.names
 backup = backup/
 
